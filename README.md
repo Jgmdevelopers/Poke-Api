@@ -2,6 +2,8 @@
 
 JavaPokeApi es una aplicación de escritorio simple desarrollada en Java que utiliza la PokeAPI para mostrar información sobre Pokémon en una interfaz gráfica de usuario.
 
+![Descripción de la imagen](Sources%20Packages/ar.com.jgmdevelopers.javapokeapi.img/pokeApi.png)
+
 ## Características
 
 - **Búsqueda por número o nombre:** Ingresa el número o el nombre de un Pokémon para buscar su información.
