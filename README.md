@@ -4,7 +4,8 @@ JavaPokeApi es una aplicación de escritorio simple desarrollada en Java que uti
 
 ## Captura de pantalla
 
-![Descripción de la imagen](Sources%20Packages/ar.com.jgmdevelopers.javapokeapi/img/pokeApi.png)
+![Descripción de la imagen](src/main/java/ar/com/jgmdevelopers/javapokeapi/img/pokeApi.png)
+
 
 ## Características
 
